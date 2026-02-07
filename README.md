@@ -14,12 +14,12 @@ Arduino sketch for **ESP32 WROOM** that transmits configurable data over a **433
 - **ESP32 WROOM** dev board (e.g. Freenove ESP32 WROOM, DOIT ESP32 DEVKIT V1, NodeMCU-32S).
 - **433MHz transmitter** (e.g. 4-pin green PCB with trimmer). Pins are usually VCC, GND, Data; the 4th may be antenna. See [WIRING.md](WIRING.md) if your module’s order differs.
 
-# Product Links
+## Product Links
 
-ESP32-WROOM: https://amzn.to/46dGgB9
-Rx/Tx Set: https://amzn.to/4tgWSBD
+- ESP32-WROOM: https://amzn.to/46dGgB9
+- Rx/Tx Set: https://amzn.to/4tgWSBD
 
-See **[WIRING.md](WIRING.md)** for exact pin connections and notes on the MX-RM-5V receiver.
+-- See **[WIRING.md](WIRING.md)** for exact pin connections and notes on the MX-RM-5V receiver.
 
 ## Arduino IDE Setup
 
